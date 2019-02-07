@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/holo_orange_light</item>
+    </style>
+
+    <style name="Theme.MyAppTheme.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/holo_orange_light</item>
+        <item name="android:navigationBarColor">?android:attr/statusBarColor</item>
+    </style>
+</resources>

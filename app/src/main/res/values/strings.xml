@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperApp</string>
+    <string name="start_image">Start Image</string>
+    <string name="about_image">About Image</string>
+    <string name="Social">Social</string>
+    <string name="shop">Shopping</string>
+    <string name="pay">Payments</string>
+    <string name="travel">Travel</string>
+    <string name="socialopts">Facebook, Instagram, Twitter</string>
+    <string name="shopopts">Flipkart, Amazon, Ebay</string>
+    <string name="payopts">PayTM, Freecharge</string>
+    <string name="travelopts">makeMyTrip, Google Flights, BookMyShow</string>
+    <string name="pref_previously_started">false</string>
+    <string name="ok">Okay</string>
+</resources>

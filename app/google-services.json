@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "315107594337",
+    "firebase_url": "https://superapp-7684c.firebaseio.com",
+    "project_id": "superapp-7684c",
+    "storage_bucket": "superapp-7684c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315107594337:android:10345cf559a4ed61",
+        "android_client_info": {
+          "package_name": "com.wordpress.fruitything.superapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315107594337-p2vp7ed1dftrj6ahcv8ea197da73venh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.fruitything.superapp",
+            "certificate_hash": "3c959b99fffc9b56bf00507f7d040885c422749b"
+          }
+        },
+        {
+          "client_id": "315107594337-7nbhrlkjs4gnmi85bimo1kk1nbco3fth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcWjp2q6Vk-tgThbu2hyjqpXBnMyEGYuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315107594337-7nbhrlkjs4gnmi85bimo1kk1nbco3fth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

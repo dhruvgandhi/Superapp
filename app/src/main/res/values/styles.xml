@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+            <!-- Customize your theme here. -->
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+        </style>
+    <!-- Launch Screen Icon -->
+    <style name="AppTheme.Launcher">
+        <item name="colorPrimaryDark">@color/listBack</item>
+        <item name="android:windowBackground">@drawable/product_logo</item>
+    </style>
+    <style name="Theme.MyAppTheme.Light.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
+
+</resources>
