@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperApp.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperApp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperApp.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperApp.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperApp.app.unitTest.iml" />
     </modules>
